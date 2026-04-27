@@ -2,7 +2,7 @@
 
 **Última actualización:** 25 de abril de 2026
 
-GastoChapín ("la app") es una aplicación móvil para el control de gastos personales, hecha en Guatemala por **Luis Albizures** ("el desarrollador"). Esta política explica qué datos maneja la app, dónde se almacenan y qué controla tenés sobre ellos.
+GastoChapín ("la app") es una aplicación móvil para el control de gastos personales, hecha en Guatemala por **Luis Albizures** ("el desarrollador"). Esta política explica qué datos maneja la app, dónde se almacenan y qué control tenés sobre ellos.
 
 ## Resumen rápido
 
